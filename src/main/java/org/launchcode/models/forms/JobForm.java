@@ -27,6 +27,7 @@ public class JobForm {
         with correct validation attributes and display names.
         Don't forget to add getters and setters
      */
+
     @NotNull
     private int locationId;
 
